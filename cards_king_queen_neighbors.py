@@ -1,4 +1,7 @@
 # problem source: https://www.youtube.com/watch?v=sf5OrthVRPA
+# We have a deck of playing cards. The deck gets shuffled.
+# How likely is it that a queen is in the neighborhood of a king?
+# Neighborhood = [-2, -1, +1, +2]
 
 import random
 import time
